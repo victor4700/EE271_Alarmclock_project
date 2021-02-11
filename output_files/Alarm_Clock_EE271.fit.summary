@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Dec 03 15:49:47 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Alarm_Clock_EE271
+Top-level Entity Name : Alarm_Clock_EE271
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 542 / 49,760 ( 1 % )
+    Total combinational functions : 532 / 49,760 ( 1 % )
+    Dedicated logic registers : 183 / 49,760 ( < 1 % )
+Total registers : 183
+Total pins : 76 / 360 ( 21 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
