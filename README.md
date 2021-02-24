@@ -57,3 +57,5 @@ KEY[1]   (Push button 1)| Reset
 <li> To Start timer  SW[0] == HIIGH</li>
 <li> To Start timer  SW[1] == LOW</li>
 </ul>
+
+YouTube Demo Link : https://youtu.be/p9FxwnSk0FI
