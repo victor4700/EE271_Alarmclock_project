@@ -1,3 +1,5 @@
+This is a simple alarm clock includes normal mode (display time) -> alarm mode -> timer mode (count down) -> stopwatch mode (count up). The hardware components used in this project are arduino uno board, arduino LCD display, and DE10-Lite FPGA (Intel).
+
 # Alarm_Clock_EE221
 
 **Arduino Code is in Arduino Foler**
